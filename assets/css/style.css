@@ -612,7 +612,9 @@ p {
           width: 40px; } }
     .header-content .header-shape.shape-tow {
       top: -18px !important;
-      left: 20% !important; }
+      left: 20% !important;
+      height: 80px;
+      width: 40px; }
       @media (max-width: 767px) {
         .header-content .header-shape.shape-tow img {
           width: 40px; } }
@@ -655,7 +657,8 @@ p {
     .header-content .header-shape.shape-seven {
       left: 30px !important;
       bottom: 50px !important;
-      top: auto !important; }
+      top: auto !important;
+      width: 75px; }
       @media (max-width: 767px) {
         .header-content .header-shape.shape-seven {
           left: 15px !important;
